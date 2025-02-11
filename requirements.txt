@@ -1,0 +1,17 @@
+Flask==3.0.0                   # Web framework for API exposure
+schedule==1.2.0                # Job scheduling for automation
+threading==0.1.4               # Multi-threading for parallel execution
+pandas==2.1.0                  # Data handling for spreadsheets
+openpyxl==3.1.2                # Excel file manipulation
+gspread==5.11.0                # Google Sheets API integration
+google-auth==2.25.2            # Google authentication
+google-auth-oauthlib==1.1.0    # OAuth2 authentication
+google-auth-httplib2==0.2.0    # Google API HTTP Client
+google-api-python-client==2.112.0 # Google Drive & Sheets API
+streamlit==1.29.0              # Web UI for visualization
+Pillow==10.0.0                 # Image processing (PIL)
+imapclient==2.3.1              # Fetching emails via IMAP
+email-validator==2.1.0         # Validating extracted emails
+pdfplumber==0.9.0              # Extracting text from PDFs
+subprocess32==3.5.4            # Running shell commands
+webbrowser==1.0.0              # Opening web pages
